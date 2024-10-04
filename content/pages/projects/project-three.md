@@ -3,7 +3,7 @@ type: ProjectLayout
 title: AJAX CRUD
 colors: colors-a
 date: '2022-01-22'
-client: Awesome client
+client: ''
 description: >-
   O trabalho consistiu no desenvolvimento de um site para adicionar
   utilizadores, utilizando o método CRUD.
