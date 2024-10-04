@@ -22,15 +22,6 @@ bottomSections:
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
     actions:
-      - type: Button
-        label: Try it now
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
       - type: Link
         label: Learn more
         altText: ''
