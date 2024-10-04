@@ -17,40 +17,6 @@ media:
   altText: AJAX CRUD
 bottomSections:
   - type: CtaSection
-    title: Download!
-    text: ''
-    actions:
-      - type: Link
-        label: 'DOWNLOAD '
-        altText: ''
-        url: >-
-          https://drive.google.com/drive/folders/1T2c1Okge4wuc7BW8K7wJKAXvAgbXluii
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-  - type: CtaSection
     title: Let's do this
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
