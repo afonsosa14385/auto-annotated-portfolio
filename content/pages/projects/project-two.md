@@ -7,7 +7,7 @@ client: ''
 description: Realizei este projeto no ambito da disciplina Sistemas Operativos
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/unnamed.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
