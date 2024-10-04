@@ -14,8 +14,10 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      ## Frequento o 3º ano do curso Gestão e Programação de Sistemas
-      Informáticos.
+      Sou aluno do 3.º ano do Curso de Técnico de Gestão e Programação de
+      Sistemas Informáticos na OFICINA-Escola Profissional do INA.  Gosto de
+      trabalhar em equipa, de novos desafios e destaco-me pela vontade em
+      continuar a aprender. 
 
     media:
       type: ImageBlock
