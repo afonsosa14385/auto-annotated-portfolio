@@ -66,8 +66,6 @@ sections:
         label: Python
       - type: Label
         label: Microsoft Office
-      - type: Label
-        label: Swift
   - type: DividerSection
     styles:
       self:
