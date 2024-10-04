@@ -26,7 +26,7 @@ bottomSections:
         label: Learn more
         altText: ''
         url: >-
-          https://sites.google.com/d/1RkciU7CZueBXflyEoa9_U_jz8vSKx9aW/p/1jzRl_tM1_aAUJl7baMXLldq46xCQGQbU/edit
+          https://drive.google.com/drive/folders/1T2c1Okge4wuc7BW8K7wJKAXvAgbXluii
         showIcon: true
         icon: arrowRight
         iconPosition: right
