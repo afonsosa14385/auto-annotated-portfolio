@@ -59,7 +59,7 @@ sections:
       - type: Label
         label: Adobe Premiere
       - type: Label
-        label: React
+        label: Adobe Photoshop
       - type: Label
         label: Microsoft Office
       - type: Label
