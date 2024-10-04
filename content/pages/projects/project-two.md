@@ -6,9 +6,7 @@ date: '2021-12-20'
 client: ''
 description: >-
   Este trabalho foi realizado na disciplina de Sistemas Operativos, no âmbito do
-  modulo 3, denominado de Sistemas Operativos Servidor.O trabalho consistiu na
-  instalação do Sistema Operativo Server2008 e a colocação das definições
-  adequadas. 
+  modulo 3, denominado de Sistemas Operativos Servidor.
 featuredImage:
   type: ImageBlock
   url: /images/unnamed.jpg
