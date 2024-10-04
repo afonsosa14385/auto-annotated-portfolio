@@ -63,7 +63,7 @@ sections:
       - type: Label
         label: HTML
       - type: Label
-        label: Next.js
+        label: Python
       - type: Label
         label: Netlify
       - type: Label
