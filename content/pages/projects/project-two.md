@@ -4,7 +4,9 @@ title: Instalação e configuração Windows Server 2008
 colors: colors-e
 date: '2021-12-20'
 client: ''
-description: Realizei este projeto no ambito da disciplina Sistemas Operativos
+description: >-
+  Este trabalho foi realizado na disciplina de Sistemas Operativos, no âmbito do
+  modulo 3, denominado de Sistemas Operativos Servidor.
 featuredImage:
   type: ImageBlock
   url: /images/unnamed.jpg
