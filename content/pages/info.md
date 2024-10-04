@@ -65,7 +65,7 @@ sections:
       - type: Label
         label: Python
       - type: Label
-        label: Netlify
+        label: Microsoft Office
       - type: Label
         label: Pancakes
       - type: Label
