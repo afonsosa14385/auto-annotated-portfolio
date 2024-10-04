@@ -44,7 +44,7 @@
         ],
         "contacts": {
             "type": "ContactBlock",
-            "title": "Contact details",
+            "title": "Contactos",
             "phoneNumber": "968454265",
             "phoneAltText": "Contacto",
             "email": "thisismyemail.@myemail.me",
