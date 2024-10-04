@@ -105,26 +105,15 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
-          **Current**
+        text: |+
+          **Experiência**
 
-          * freelance @freelance.me
+          *   Participação no Festival BGreen
 
-          **2018-2021**
+          *   Participação no projeto "À Velocidade do Sol"
 
-          * fullstack at this startup
+          *   Participação Workshop Citeve 
 
-          **2015**
-
-          * senior front-end at this place
-
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
         styles:
           self:
             textAlign: left
