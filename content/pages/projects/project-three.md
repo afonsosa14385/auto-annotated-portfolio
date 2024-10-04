@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: AJAX CRUD
 colors: colors-a
-date: ''
+date: '2024-05-05'
 client: ''
 description: >-
   O trabalho consistiu no desenvolvimento de um site para adicionar
