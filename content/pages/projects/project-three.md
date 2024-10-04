@@ -13,7 +13,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/smartmockups_m1uvvwpa.jpg
+  url: /images/smartmockups_m1uvvwpa-removebg-preview.png
   altText: Project image
 ---
 
