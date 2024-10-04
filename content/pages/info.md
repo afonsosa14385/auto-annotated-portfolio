@@ -124,18 +124,19 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **2010-2022**
 
-          * ba computer sciense at a semi fancy school
+          Colégio da Trofa
 
-          **2014**
+          **2022-atual**
 
-          * react certificate somewhere
+          OFICINA - Escola Profissional
 
-          **2011**
 
-          * my highschool
+
+
+
         styles:
           self:
             textAlign: left
