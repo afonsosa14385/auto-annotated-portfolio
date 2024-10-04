@@ -23,7 +23,7 @@ bottomSections:
       any layout and any screen.
     actions:
       - type: Button
-        label: Try it now
+        label: DOWNLOAD
         altText: ''
         url: >-
           https://drive.google.com/drive/folders/1T2c1Okge4wuc7BW8K7wJKAXvAgbXluii
