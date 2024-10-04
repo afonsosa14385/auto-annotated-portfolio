@@ -34,7 +34,8 @@ bottomSections:
       - type: Link
         label: Learn more
         altText: ''
-        url: /
+        url: >-
+          https://sites.google.com/d/1RkciU7CZueBXflyEoa9_U_jz8vSKx9aW/p/1jzRl_tM1_aAUJl7baMXLldq46xCQGQbU/edit
         showIcon: true
         icon: arrowRight
         iconPosition: right
