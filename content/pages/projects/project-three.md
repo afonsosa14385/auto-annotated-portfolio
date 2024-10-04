@@ -6,7 +6,7 @@ date: '2022-01-22'
 client: Awesome client
 description: >-
   O trabalho consistiu no desenvolvimento de um site para adicionar
-  utilizadores, com sistema de login, utilizando o método CRUD.
+  utilizadores, utilizando o método CRUD.
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
