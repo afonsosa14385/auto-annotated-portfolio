@@ -17,7 +17,7 @@ media:
   altText: AJAX CRUD
 bottomSections:
   - type: CtaSection
-    title: Let's do this
+    title: Download!
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
