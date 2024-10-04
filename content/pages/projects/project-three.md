@@ -18,9 +18,8 @@ media:
 bottomSections:
   - type: CtaSection
     title: AJAX CRUD
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: |
+      Download do projeto AJAX CRUD
     actions:
       - type: Button
         label: DOWNLOAD
