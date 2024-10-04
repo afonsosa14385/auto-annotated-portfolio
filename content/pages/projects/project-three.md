@@ -25,7 +25,8 @@ bottomSections:
       - type: Button
         label: Try it now
         altText: ''
-        url: /
+        url: >-
+          https://drive.google.com/drive/folders/1T2c1Okge4wuc7BW8K7wJKAXvAgbXluii
         showIcon: true
         icon: arrowRight
         iconPosition: right
