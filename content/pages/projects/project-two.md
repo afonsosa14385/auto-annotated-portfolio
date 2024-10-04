@@ -11,7 +11,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/Windows_Server_Longhorn_5600.png
+  url: /images/smartmockups_m1ut32mj.jpg
   altText: Project image
 ---
 
