@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Instalação e configuração Windows Server 2008
 colors: colors-a
 date: '2021-12-20'
-client: Awesome client
+client: ''
 description: Realizei este projeto no ambito da disciplina Sistemas Operativos
 featuredImage:
   type: ImageBlock
