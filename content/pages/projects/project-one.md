@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: INSTALAÇÃO E CONFIGURAÇÃO LINUX CAIXA MÁGICA
-colors: colors-a
+colors: colors-e
 date: '2023-01-02'
 client: ''
 description: >-
