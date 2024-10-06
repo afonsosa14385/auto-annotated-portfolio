@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: AJAX CRUD
-colors: colors-a
+colors: colors-e
 date: '2024-09-05'
 client: ''
 description: >-
