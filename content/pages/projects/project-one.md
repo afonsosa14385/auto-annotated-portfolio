@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: INSTALAÇÃO E CONFIGURAÇÃO LINUX CAIXA MÁGICA
 colors: colors-a
-date: ''
+date: '2021-02-15'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
