@@ -3,7 +3,7 @@ type: ProjectLayout
 title: INSTALAÇÃO E CONFIGURAÇÃO LINUX CAIXA MÁGICA
 colors: colors-a
 date: '2023-01-02'
-client: Awesome client
+client: ''
 description: >-
   Este trabalho foi realizado na disciplina de Sistemas Operativos, no âmbito do
   modulo 4, denominado de Sistemas Operativos Open Source.
