@@ -5,9 +5,8 @@ colors: colors-a
 date: '2023-01-02'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Este trabalho foi realizado na disciplina de Sistemas Operativos, no âmbito do
+  modulo 4, denominado de Sistemas Operativos Servidor.
 featuredImage:
   type: ImageBlock
   url: /images/Caixa_Magica_KDE_Portuguese.png
