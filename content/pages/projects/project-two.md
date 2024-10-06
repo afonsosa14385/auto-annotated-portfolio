@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Instalação e configuração Windows Server 2008
 colors: colors-e
-date: '2021-12-20'
+date: ''
 client: ''
 description: >-
   Este trabalho foi realizado na disciplina de Sistemas Operativos, no âmbito do
