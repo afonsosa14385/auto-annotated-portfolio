@@ -1,6 +1,6 @@
 ---
 type: ProjectFeedLayout
-title: Projects
+title: Projetos
 colors: colors-e
 projectFeed:
   type: ProjectFeedSection
