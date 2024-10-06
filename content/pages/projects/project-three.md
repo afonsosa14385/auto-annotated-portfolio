@@ -5,8 +5,8 @@ colors: colors-a
 date: '2024-09-05'
 client: ''
 description: >-
-  O trabalho consistiu no desenvolvimento de um site para adicionar
-  utilizadores, utilizando o método CRUD.
+  O trabalho consistiu no desenvolvimento de um site para adicionar, editar e
+  eliminar utilizadores utilizando o método CRUD.
 featuredImage:
   type: ImageBlock
   url: /images/Captura de ecrã 2024-10-04 162709.jpg
