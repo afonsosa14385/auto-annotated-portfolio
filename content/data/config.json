@@ -10,13 +10,13 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Sobre Mim",
-                "url": "/info"
+                "label": "Projetos",
+                "url": "/projects"
             },
             {
                 "type": "Link",
-                "label": "Projetos",
-                "url": "/projects"
+                "label": "Sobre Mim",
+                "url": "/info"
             }
         ],
         "socialLinks": [],
