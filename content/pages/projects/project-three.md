@@ -9,7 +9,7 @@ description: >-
   eliminar utilizadores utilizando o método CRUD.
 featuredImage:
   type: ImageBlock
-  url: /images/Captura de ecrã 2024-10-04 162709.jpg
+  url: /images/ajasxcrud.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
