@@ -32,7 +32,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contactos",
-            "phoneNumber": "968454265",
+            "phoneNumber": "+351 968454265",
             "phoneAltText": "Contacto",
             "email": "a14385@oficina.pt",
             "emailAltText": "Email",
