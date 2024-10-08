@@ -28,29 +28,16 @@
     },
     "footer": {
         "type": "Footer",
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Info",
-                "url": "/info",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
-            }
-        ],
+        "primaryLinks": [],
         "contacts": {
             "type": "ContactBlock",
-            "title": "Contact details",
-            "phoneNumber": "850-123-5021",
-            "phoneAltText": "My phone number",
-            "email": "thisismyemail.@myemail.me",
-            "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
-            "addressAltText": "My address"
+            "title": "Contactos",
+            "phoneNumber": "+351 968454265",
+            "phoneAltText": "Contacto",
+            "email": "a14385@oficina.pt",
+            "emailAltText": "Email",
+            "address": "",
+            "addressAltText": ""
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
         "styles": {
