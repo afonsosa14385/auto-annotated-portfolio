@@ -16,6 +16,4 @@ media:
   url: /images/7521051-ai.png
   altText: Project image
 ---
-
-O trabalho consistiu na instalação do Sistema Operativo Server2008 e a colocação das definições adequadas. 
-
+O trabalho consistiu na instalação e implementação de domínios do Sistema Operativo Server2008 e a colocação das definições adequadas. 
